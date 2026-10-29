@@ -1,5 +1,5 @@
 ---
-- 👋 Hi, I’m @veyomr, a curious software engineer.
+- 👋 Hi, I’m @veyomr, a software engineer.
 - 👀 I’m mostly interested in learning tech stacks, old and new.
 - 🏡 A little more about me at [rgpl.xyz](https://rgpl.xyz).
 - 📫 Reach me via email contact-veyo@rgpl.xyz
