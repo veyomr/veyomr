@@ -1,7 +1,7 @@
 ---
 - 👋 Hi, I’m @veyomr, a curious software engineer.
 - 👀 I’m mostly interested in learning tech stacks, old and new.
-- 🌱 I’m currently learning [flutter](https://flutter.dev/).
+- 🏡 A little more about me at [rgpl.xyz](https://rgpl.xyz).
 - 📫 Reach me via email contact-veyo@rgpl.xyz
 ---
 `2022`
